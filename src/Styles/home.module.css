@@ -1,0 +1,29 @@
+.Home .container .background_image {
+    background-image: url('../images/bedroom.jpg');
+    position: fixed;
+    min-width: 100%;
+    min-height: 100%;
+    background-size: cover;
+    background-position: center;
+    filter: brightness(50%);
+}
+
+.Home .container .Hello{
+    position: absolute ;
+    top: 20%;
+    width: 100%;
+    margin: 0;
+    color:#ECEFF4;
+    text-align: center;
+    font-size: 90px;
+}
+
+.Home .container h1{
+    position: absolute;
+    top: 32%;
+    width: 100%;
+    margin: 0;
+    color: #ECEFF4;
+    text-align: center;
+    font-size: 70px;
+}
